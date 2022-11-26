@@ -5,9 +5,7 @@
 
 # Technologies Used
 
-![AWS S3](https://img.shields.io/badge/-AWS_S3-05122A?style=flat&logo=amazons3)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
