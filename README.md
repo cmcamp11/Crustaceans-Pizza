@@ -27,12 +27,12 @@ After creating youir own fork for crustaceanspizza and downloading the code to y
 CD into crustaceanspizza, 
 ($) cd crustaceanspizza
 
-open VS Code,
+Open VS Code,
 ($) code .
 
 Open a terminal inside VSC.
 
-Start up your server and browse to localhost:8000
+Start up your server and browse to localhost:8000,
 ($) python3 manage.py runserver
 
 # To Run a Local Test
